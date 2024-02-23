@@ -1,5 +1,6 @@
 #editor configuration files/folders
 .idea/
+.DS_store
 
 # Logs
 logs

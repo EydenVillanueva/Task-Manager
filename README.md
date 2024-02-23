@@ -9,12 +9,11 @@ The system will follow a classic client-server architecture using javascript bas
 ![ui_proposal.png](documentation%2Fimgs%2Fui_proposal.png)
 
 ### Diagram
-![diagram.png](documentation%2Fimgs%2Fdiagram.png)
+![img.png](documentation/imgs/achitecture_diagram.png)
 
 
 ### Data Model
-![data_model.png](documentation%2Fimgs%2Fdata_model.png)
-
+![img.png](documentation/imgs/data_model.png)
 
 ## Git Guidelines
 

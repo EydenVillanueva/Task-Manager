@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node --env-file=.env src/index.js",
     "dev": "nodemon  --env-file=.env src/index.js",
-    "lint": "npx eslint . --fix"
+    "lint": "eslint . --fix"
   },
   "type": "module",
   "keywords": [],
@@ -25,6 +25,7 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
     "nodemon": "^3.1.0",
     "prettier": "^3.2.5"
   }
